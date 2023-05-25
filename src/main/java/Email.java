@@ -1,4 +1,5 @@
 public class Email {
+    //VALUE OBJECT
     private String endereco;
 
     public Email(String endereco){
